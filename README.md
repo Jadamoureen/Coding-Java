@@ -1,5 +1,3 @@
-# Java-Python-Javascript
-
 # Coding-Java
 
 __Java is the most popular programming language & is the language of choice for Android programming. It is recommended one practises the codes because practise makes perfect.__
